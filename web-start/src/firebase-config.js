@@ -7,7 +7,12 @@
  * 4. Copy the config object snippet, then add it here.
  */
 const config = {
-  /* TODO: ADD YOUR FIREBASE CONFIGURATION OBJECT HERE */
+  apiKey: "AIzaSyCc3-2zobet3r5GAE87TDqA5lZb_UnraGA",
+  authDomain: "fir-tutorial-405f9.firebaseapp.com",
+  projectId: "fir-tutorial-405f9",
+  storageBucket: "fir-tutorial-405f9.appspot.com",
+  messagingSenderId: "179709207047",
+  appId: "1:179709207047:web:16a6235c00693ffbb1c0a2"
 };
 
 export function getFirebaseConfig() {
